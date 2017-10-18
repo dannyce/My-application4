@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\herolion\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\herolion\Desktop\Activity\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_2be27d0b4cf1560d8f0570556f270c6a45126339.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\herolion\.android\build-cache\017613c6d9667a10b98a4741cf58a4cb6ff00c50\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\herolion\Desktop\Activity\app\build\intermediates\pre-dexed\debug\classes_0690f5af4ce7dbde2739dd6e6b2046f862280e4c.jar" />
+    </item>
+
+</items>
